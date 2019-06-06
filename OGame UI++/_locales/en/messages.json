@@ -1,10 +1,10 @@
 {
     "appName": {
-        "message": "OGame UI++",
-        "description": "OGame UI++"
+        "message": "OGame UI Reloaded",
+        "description": "OGame UI Reloaded"
     },
     "appDesc": {
-        "message": "[EN][FR][ES][TR][DE] Improves the OGame interface by adding elements and menu entries.",
-        "description": "[EN][FR][ES][TR][DE] Improves the OGame interface by adding elements and menu entries."
+        "message": "Add fictionalises",
+        "description": "Add fictionalises"
     }
 }
